@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Piscina &#8211; Vitta Imóveis</title>
+	<atom:link href="https://thierrynathan.github.io/property-feature/piscina/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thierrynathan.github.io</link>
+	<description>A melhor imobiliária para você!</description>
+	<lastBuildDate>Sat, 24 Dec 2022 20:14:54 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Apartamento Campestre Garden</title>
+		<link>https://thierrynathan.github.io/property/apartamento-campestre-garden/</link>
+					<comments>https://thierrynathan.github.io/property/apartamento-campestre-garden/#respond</comments>
+		
+		<dc:creator><![CDATA[vitta]]></dc:creator>
+		<pubDate>Thu, 08 Dec 2022 22:14:51 +0000</pubDate>
+				<guid isPermaLink="false">https://thierrynathan.github.io/?post_type=property#038;p=453</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus in. Aenean et tortor at risus viverra adipiscing at. Magnis dis parturient montes nascetur ridiculus mus. Id venenatis a condimentum vitae &#8230;<p class="read-more"> <a class="" href="https://thierrynathan.github.io/property/apartamento-campestre-garden/"> <span class="screen-reader-text">Apartamento Campestre Garden</span> Leia mais &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus in. Aenean et tortor at risus viverra adipiscing at. Magnis dis parturient montes nascetur ridiculus mus. Id venenatis a condimentum vitae sapien pellentesque habitant. Ornare lectus sit amet est placerat in. Sed adipiscing diam donec adipiscing. Lacus viverra vitae congue eu consequat ac. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Vestibulum mattis ullamcorper velit sed ullamcorper. Risus ultricies tristique nulla aliquet enim tortor at. Euismod nisi porta lorem mollis aliquam ut porttitor. Natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Mauris pharetra et ultrices neque.</p>
+<style>
+@media all and (min-width:960px){
+.botaozim{
+top: 1150px;
+left: 370px;
+}
+}
+</style>
+<style>
+@media all and (min-width:0px) and (max-width: 500px) {
+.botaozim{
+top: 1570px;
+left: 16px;
+}
+}
+</style>
+<style>
+@media all and (min-width:500px) and (max-width: 960px) {
+.botaozim{
+top: 1543px;
+left: 185px;
+}
+}
+</style>
+<div class="botaozim">
+<a href="https://api.whatsapp.com/send?phone=5511912866816&amp;text=Ol%C3%A1,%20tenho%20interesse%20em%20negociar%20o%20im%C3%B3vel%20Campestre%20Garden!" target="_blank" rel="noopener">Entre em contato!</a>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://thierrynathan.github.io/property/apartamento-campestre-garden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
