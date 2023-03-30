@@ -10,8 +10,8 @@
 
 @font-face {
 	font-family: lg;
-	src: url(https://https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/fonts/lg.eot?n1z373);
-	src: url(https://https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/fonts/lg.eot#iefixn1z373) format("embedded-opentype"), url(https://https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/fonts/lg.woff?n1z373) format("woff"), url(https://https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/fonts/lg.ttf?n1z373) format("truetype"), url(https://https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/fonts/lg.svg?n1z373#lg) format("svg");
+	src: url(https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/fonts/lg.eot?n1z373);
+	src: url(https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/fonts/lg.eot#iefixn1z373) format("embedded-opentype"), url(https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/fonts/lg.woff?n1z373) format("woff"), url(https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/fonts/lg.ttf?n1z373) format("truetype"), url(https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/fonts/lg.svg?n1z373#lg) format("svg");
 	font-weight: 400;
 	font-style: normal
 }
@@ -413,15 +413,15 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .lg-outer .lg-has-vimeo .lg-video-play {
-	background: url(https://https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/img/vimeo-play.png) no-repeat
+	background: url(https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/img/vimeo-play.png) no-repeat
 }
 
 .lg-outer .lg-has-vimeo:hover .lg-video-play {
-	background: url(https://https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/img/vimeo-play.png) 0 -58px no-repeat
+	background: url(https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/img/vimeo-play.png) 0 -58px no-repeat
 }
 
 .lg-outer .lg-has-html5 .lg-video-play {
-	background: url(https://https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/img/video-play.png) no-repeat;
+	background: url(https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/img/video-play.png) no-repeat;
 	height: 64px;
 	margin-left: -32px;
 	margin-top: -32px;
@@ -434,11 +434,11 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .lg-outer .lg-has-youtube .lg-video-play {
-	background: url(https://https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/img/youtube-play.png) no-repeat
+	background: url(https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/img/youtube-play.png) no-repeat
 }
 
 .lg-outer .lg-has-youtube:hover .lg-video-play {
-	background: url(https://https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/img/youtube-play.png) 0 -60px no-repeat
+	background: url(https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/img/youtube-play.png) 0 -60px no-repeat
 }
 
 .lg-outer .lg-video-object {
@@ -737,7 +737,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .lg-outer .lg-item {
-	background: url(https://https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/img/loading.gif) center center no-repeat;
+	background: url(https://thierrynathan.github.io/site-vitta/wp-content/plugins/essential-real-estate/public/assets/packages/light-gallery/img/loading.gif) center center no-repeat;
 	display: none !important
 }
 
